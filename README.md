@@ -1,16 +1,90 @@
-## Hi there 👋
+# Ghassen Mesghouni | Data Analyst Portfolio
 
-<!--
-**GhassenMesghouni/ghassenmesghouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Data Analytics Portfolio!
 
-Here are some ideas to get you started:
+As a passionate Master's Student in Business Analytics, I enjoy solving business problems through data, automation, and insightful visualizations. This portfolio showcases projects I've built across data analytics, business intelligence, machine learning, and dashboard development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Core Skills
+
+* Python (Pandas, NumPy, Scikit-learn, Matplotlib, Statsmodels)
+* SQL (Data Querying, Joins, Aggregations)
+* Power BI (KPI Dashboards, Slicers, Dynamic Reports)
+* Machine Learning (Regression, Clustering, Classification)
+* Data Cleaning, Feature Engineering, EDA (Exploratory Data Analysis)
+* Git & GitHub (Version Control, Project Documentation)
+
+---
+
+## 📂 Projects Overview
+
+### 1. **Customer Churn Prediction (ML Project)**
+
+* Predict customer churn using classification models (Logistic Regression, Random Forest)
+* Data Cleaning, Encoding, Feature Engineering
+* Performance Evaluation: Confusion Matrix, Accuracy, Precision, Recall
+* [View Repository](https://github.com/YOUR_GITHUB/Customer-Churn-Prediction)
+
+### 2. **Customer Segmentation (Unsupervised ML)**
+
+* Applied K-Means Clustering on mall customer dataset
+* Identified customer segments based on income and spending
+* Visualized clusters for actionable business insights
+* [View Repository](https://github.com/YOUR_GITHUB/Customer-Segmentation-Mall)
+
+### 3. **Power BI Sales Dashboard (v1)**
+
+* Built fully interactive Power BI dashboard for sales data
+* KPIs, Product Category Analysis, Region-wise Sales, Profit Trends
+* [View Repository](https://github.com/YOUR_GITHUB/Power-BI-Sales-Dashboard)
+
+### 4. **Power BI Sales Dashboard (v2 - Advanced)**
+
+* Enhanced version with dynamic slicers, advanced KPIs, and profitability metrics
+* Deeper profitability analysis across product categories & regions
+* [View Repository](https://github.com/YOUR_GITHUB/Power-BI-Sales-Dashboard-v2)
+
+### 5. **SQL Sales Analysis**
+
+* Built relational database in SQLite
+* Performed complex queries (JOINs, Aggregations, Filters)
+* Extracted actionable insights from multi-table sales data
+* [View Repository](https://github.com/YOUR_GITHUB/SQL-Sales-Analysis)
+
+### 6. **UK Housing Price Regression**
+
+* Performed linear regression modeling on UK housing data
+* Visualized feature impacts on house prices
+* Full EDA and model evaluation
+* [View Repository](https://github.com/YOUR_GITHUB/UK-Housing-Price-Analysis)
+
+### 7. **Time Series Sales Forecasting**
+
+* Forecasted sales using time series models (ETS Decomposition, ARIMA)
+* Visualized forecast vs actual values for future projections
+* [View Repository](https://github.com/YOUR_GITHUB/Time-Series-Sales-Forecasting)
+
+---
+
+## 🎯 Career Goals
+
+Currently seeking Data Analyst / Business Intelligence Analyst Internships or Entry-level Roles.
+
+**Open to opportunities in:**
+
+* Data Analytics
+* Business Intelligence
+* Predictive Modeling
+* Dashboarding & Reporting Automation
+
+---
+
+## 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/ghassen-mesghouni-801620200/
+* Email: ghassenmesghouni@vitaeservice.tn
+
+---
+
+Thank you for visiting my portfolio!
