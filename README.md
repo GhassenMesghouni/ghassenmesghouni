@@ -24,46 +24,46 @@ As a passionate Master's Student in Business Analytics, I enjoy solving business
 * Predict customer churn using classification models (Logistic Regression, Random Forest)
 * Data Cleaning, Encoding, Feature Engineering
 * Performance Evaluation: Confusion Matrix, Accuracy, Precision, Recall
-* [View Repository](https://github.com/YOUR_GITHUB/Customer-Churn-Prediction)
+* https://github.com/GhassenMesghouni/Customer-Churn-Prediction
 
 ### 2. **Customer Segmentation (Unsupervised ML)**
 
 * Applied K-Means Clustering on mall customer dataset
 * Identified customer segments based on income and spending
 * Visualized clusters for actionable business insights
-* [View Repository](https://github.com/YOUR_GITHUB/Customer-Segmentation-Mall)
+* https://github.com/GhassenMesghouni/Customer-Segmentation-Mall
 
 ### 3. **Power BI Sales Dashboard (v1)**
 
 * Built fully interactive Power BI dashboard for sales data
 * KPIs, Product Category Analysis, Region-wise Sales, Profit Trends
-* [View Repository](https://github.com/YOUR_GITHUB/Power-BI-Sales-Dashboard)
+* https://github.com/GhassenMesghouni/Power-BI-Sales-Dashboard
 
 ### 4. **Power BI Sales Dashboard (v2 - Advanced)**
 
 * Enhanced version with dynamic slicers, advanced KPIs, and profitability metrics
 * Deeper profitability analysis across product categories & regions
-* [View Repository](https://github.com/YOUR_GITHUB/Power-BI-Sales-Dashboard-v2)
+* https://github.com/GhassenMesghouni/Power-BI-Sales-Dashboard-v2
 
 ### 5. **SQL Sales Analysis**
 
 * Built relational database in SQLite
 * Performed complex queries (JOINs, Aggregations, Filters)
 * Extracted actionable insights from multi-table sales data
-* [View Repository](https://github.com/YOUR_GITHUB/SQL-Sales-Analysis)
+* https://github.com/GhassenMesghouni/SQL-Sales-Analysis
 
 ### 6. **UK Housing Price Regression**
 
 * Performed linear regression modeling on UK housing data
 * Visualized feature impacts on house prices
 * Full EDA and model evaluation
-* [View Repository](https://github.com/YOUR_GITHUB/UK-Housing-Price-Analysis)
+* https://github.com/GhassenMesghouni/UK-Housing-Price-Analysis
 
 ### 7. **Time Series Sales Forecasting**
 
 * Forecasted sales using time series models (ETS Decomposition, ARIMA)
 * Visualized forecast vs actual values for future projections
-* [View Repository](https://github.com/YOUR_GITHUB/Time-Series-Sales-Forecasting)
+* https://github.com/GhassenMesghouni/Time-Series-Sales-Forecasting
 
 ---
 
