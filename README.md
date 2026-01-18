@@ -83,7 +83,7 @@ Currently seeking Data Analyst / Business Intelligence Analyst Internships or En
 ## 📫 Contact
 
 * LinkedIn: https://www.linkedin.com/in/ghassen-mesghouni-801620200/
-* Email: ghassenmesghouni@vitaeservice.tn
+* Email: ghassenmesghouni6@gmail.com
 
 ---
 
